@@ -25,11 +25,6 @@
 ## Skills Learned
 
 
-🔒 Cybersecurity: ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-0969da?style=flat-square)
-
-☁️ Cloud & DevOps: ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0969da?style=flat-square)
-
----
 
 ## Course Portfolio
 
