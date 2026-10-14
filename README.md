@@ -24,11 +24,6 @@
 
 ## Skills Learned
 
-🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0969da?style=flat-square)
-
-🌐 Networking & Security: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0969da?style=flat-square) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0969da?style=flat-square) ![Network+](https://img.shields.io/badge/Network%2B-0969da?style=flat-square)
-
-💻 Programming Languages & Tools: ![PowerShell](https://img.shields.io/badge/PowerShell-0969da?style=flat-square) ![Linux CLI](https://img.shields.io/badge/Linux%20CLI-0969da?style=flat-square)
 
 🔒 Cybersecurity: ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-0969da?style=flat-square)
 
